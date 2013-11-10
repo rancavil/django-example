@@ -3,5 +3,8 @@
 *.bak
 *.orig
 *~
+*.log
 .project
 .pydevproject
+/venv/
+/virtenv/
